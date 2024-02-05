@@ -69,7 +69,7 @@ const getBet = (balance, lines) => {
 const spin = () => {
     const symbol = [];
     for (const [symbol, count] of Object.entries(symbolsCount)) {
-        
+        //axcel
     }
 }
 
